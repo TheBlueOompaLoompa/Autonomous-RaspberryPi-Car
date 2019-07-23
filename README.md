@@ -31,4 +31,4 @@ In the terminal window type:
 python3 autopi.py
 ```
 
-**Now You Have A Working Autonomous RaspberryPi Car Eventually**
+**Now You Have A Working Autonomous RaspberryPi Car (Eventually)**
