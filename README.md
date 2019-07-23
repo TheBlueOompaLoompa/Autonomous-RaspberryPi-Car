@@ -6,7 +6,7 @@ This project was made almost entirely on a Raspberry Pi 4 B 4GB Model.
 At this point in time it is still in early development so don't expect to have a car driving from your house to someone else's.
 Right Now all you can do is detect different sides of the road(it isn't very good at it.)
 I will be updating it over time to hopefully add motor controls, and create a way of planning out a route.
-A Download link is avalible on the [Scratchysoft Website](scratchysoft.github.io)
+A Download link is avalible on the [Scratchysoft Website](https://scratchysoft.github.io)
 
 ## How To Install
 
