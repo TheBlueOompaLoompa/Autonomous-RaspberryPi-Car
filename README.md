@@ -1,6 +1,6 @@
-# Autonomous-RaspberryPi-Car
+# Autonomous RaspberryPi Car
 ## What it was made on
-This project was made almost entirely on a Raspberry Pi 4 B 4GB Ram.
+This project was made almost entirely on a Raspberry Pi 4 B 4GB Model.
 
 ## About
 At this point in time it is still in early development so don't expect to have a car driving from your house to someone else's.
