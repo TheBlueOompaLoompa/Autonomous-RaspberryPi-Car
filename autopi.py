@@ -6,7 +6,7 @@ import datetime
 cap = cv.VideoCapture(0)
 
 # Load the classifier and create a cascade object for item detection
-item_cascade = cv.CascadeClassifier('haarcascade_frontalface_alt.xml')
+item_cascade = cv.CascadeClassifier('cascade.xml')
 
 leftx = 0
 rightx = 0
